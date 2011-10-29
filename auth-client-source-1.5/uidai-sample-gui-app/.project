@@ -1,0 +1,17 @@
+<projectDescription>
+  <name>uidai-sample-gui-app</name>
+  <comment/>
+  <projects>
+    <project>uidai-auth-client</project>
+    <project>uidai-auth-xsd-model</project>
+    <project>uidai-biometric-integration-api</project>
+  </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>

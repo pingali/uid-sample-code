@@ -1,0 +1,17 @@
+
+Sample code for UID Authentication 
+This is a github copy of code from UIDAI site
+
+See full documentation
+https://developer.uidai.gov.in/site/downloads
+
+Contents: 
+
+1. Sample java authentication client  (source: UID site) 
+
+Released Oct 12, 2011
+Uses Authentication Spec v1.5 rev1
+
+2. Test setup 
+
+Parameters and relevant certificates 
